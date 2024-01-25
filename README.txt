@@ -1,5 +1,5 @@
-This folder contains all the source code used for the project. It is meant to be run on a Linux system (WSL works). I 
-will be the first to admit that it's poorly written and disorganized. If I had more time, I would have refactored and
+This repo contains all the source code used for this AMATH 271 course project. It is meant to be run on a Linux system (WSL works). 
+I will be the first to admit that it's poorly written and disorganized. If I had more time, I would have refactored and
 restructured everything. Alas, this is what we have. Please do not alter the internal file structure, as file I/O is
 tied to the specific structure of the 'Run' folder.
 
