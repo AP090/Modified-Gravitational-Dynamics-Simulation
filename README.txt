@@ -10,8 +10,7 @@ tied to the specific structure of the 'Run' folder.
 Warning: The LaTeX source code may compile with warnings and potential errors. But the output PDF wile is not affected.
 
 Compiling Instruction:
-Most of the code is written in C++. There is a Makefile called 'make' with the compiler commands. You will need to ensure g++ is installed. Furthermore, some of the programs require the C++ library Eigen for solving linear systems. 
-Type 'make' into the terminal to compile these programs. There are also some Python programs, one of which relies on Matplotlib. Ensure Python3 and that library are installed. They have to be run in a specific order as shown. The run commands are in quotes. Again, if we had more time, I would have made a script that runs these automatically.
+Most of the code is written in C++. There is a Makefile called 'make' with the compiler commands. You will need to ensure g++ is installed. Furthermore, some of the programs require the C++ library Eigen for solving linear systems. Type 'make' into the terminal to compile these programs. There are also some Python programs, one of which relies on Matplotlib. Ensure Python3 and that library are installed. They have to be run in a specific order as shown. The run commands are in quotes. Again, if we had more time, I would have made a script that runs these automatically.
 
 1. './modified_mass'
 Converts the given mass distribution into one that is solely a function of radius. It outputs its final result as a text file in the main folder.
