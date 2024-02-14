@@ -52,3 +52,4 @@ Installing g++: https://linuxhint.com/install-and-use-g-on-ubuntu/
 Installing Eigen: https://robots.uc3m.es/installation-guides/install-eigen.html#install-eigen3-ubuntu
 Installing Python: https://www.scaler.com/topics/python/install-python-on-linux/
 Installing Matplotlib: https://matplotlib.org/stable/users/installing/index.html
+UW CSC Machine List: https://wiki.csclub.uwaterloo.ca/Machine_List
