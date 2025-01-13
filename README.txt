@@ -1,4 +1,6 @@
-This repo contains all the source code of for Edward Chang and Aryan Prasad's AMATH 271 course project. It is meant to be run on a Linux system (WSL works). 
+See the "Paper" directory for the PDF of the written report.
+
+This repo contains all the source code of for Edward Chang and Aryan Prasad's AMATH 271 course project. It is meant to be run on a Linux system (WSL works).
 
 (Aryan was in charged of numerical computation, Edward was in charged of typesetting in LaTeX and the theory)
 
